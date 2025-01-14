@@ -1,0 +1,349 @@
+{
+  "comment1": "---------- WONING TAXATIE  ----------",
+
+  "valuationTitle": "Taxatie object",
+  "valuationSubTitle": "Taxatie object",
+  "address": {
+    "label": "Adres",
+    "placeholder": "2841 Bougenville Lane"
+  },
+  "zipCode": {
+    "label": "Postcode",
+    "placeholder": "12345"
+  },
+  "city": {
+    "label": "Stad",
+    "placeholder": "New York"
+  },
+  "sqmLivingArea": {
+    "label": "Woonoppervlakte in vierkante meters",
+    "placeholder": "Selecteer een optie"
+  },
+  "houseNumber": {
+    "label": "Huisnummer",
+    "placeholder": "12345"
+  },
+  "plotSize": {
+    "label": "perceelgrootte",
+    "placeholder": "Selecteur perceel grootte"
+  },
+  "area": {
+    "label": "Buurt",
+    "placeholder": "selecteer een buurt"
+  },
+
+  "constructionYear": {
+    "label": "bouwjaar",
+    "placeholder": "2020"
+  },
+  "typeOfProperty": {
+    "label": "woningtype",
+    "placeholder": "Select het woningtype",
+    "options": {
+      "house": "Huis",
+      "apartment": "Appartement",
+      "condo": "Condo",
+      "townhouse": "Tuinhuis",
+      "duplex": "Dubbelzijdig"
+    }
+  },
+  "button": {
+    "cancel": "Annuleren",
+    "update": "bijwerken",
+    "submit": "Indienen",
+    "add": "Voeg toe",
+    "draft": "Opslaan in concept",
+    "generate": "rapport genereren",
+    "logout": "uitloggen",
+    "updateParameters": "Wijzig parameters",
+    "changeReference": "Wijzig referentie object",
+    "addReference": "Nieuw referentie object toevoegen",
+    "modify": "Wijzigen",
+    "edit": "Wijzigen",
+    "save": "Opslaan",
+    "signin": "Inloggen",
+    "signup": "Inloggen",
+    "countinue": "doorgaan"
+  },
+  "message": {
+    "success": "Formulier succesvol verzonden",
+    "parametersUpdated": "Parameters succesvol bijgewerkt",
+    "updateImgLoading": "Afbeelding uploaden, even geduld AUB.",
+    "updateImg": "Afbeelding succesvol geüpload",
+    "updateImgError": "Afbeelding uploaden mislukt",
+    "error": "Vul alle Velden in",
+    "serverError": "Er is iets misgegaan",
+    "profileUpdated": "Profiel succesvol bijgewerkt",
+    "modifyPassword": "wachtwoord succesvol bijgewerkt",
+    "modifyError": "wachtwoorden komen niet overeen",
+    "logout": "Succesvol uitgelogd",
+    "server": "er is een fout opgetreden",
+    "setParametersError": "Stel eerst standaardparameters in"
+  },
+
+  "comment2": "---------- REFERENTIE OBJECT----------",
+
+  "referenceTitle": "Referentie object",
+  "referenceSubTitle": "Select Number Of Reference Property To Compare",
+  "propertySubTitle": "Object adres",
+  "compareOptions": {
+    "3": "vergelijk 3 objecten",
+    "4": "vergelijk 4 objecten",
+    "5": "vergelijk 5 objecten",
+    "6": "vergelijk 6 Properties"
+  },
+  "header": "Comparison / Valuation property /",
+  "sellingPrice": {
+    "label": "Verkoopprijs",
+    "placeholder": "$ 1,000,000"
+  },
+  "sellingDate": {
+    "label": "verkoopdatum"
+  },
+  "acqLivingArea": {
+    "label": "woonoppervlakte",
+    "placeholder": "selecteer een optie"
+  },
+  "strenghts": {
+    "label": "Sterkte",
+    "amount": "bedrag",
+    "strenghts": "sterktes",
+    "strghtPercentage": "sterkte Percentage",
+    "room": {
+      "label": "Selecteer een kamer",
+      "options": {
+        "bedroom": "slaapkamer",
+        "bathroom": "badkamer",
+        "livingroom": "Woonruimte",
+        "kitchen": "Keuken"
+      }
+    }
+  },
+  "weakness": {
+    "label": "Zwakte",
+    "amount": "bedrag",
+    "weaknesses": "Zwakte",
+    "wknPercentage": "Zwakte percentage",
+    "room": {
+      "label": "Selecteer",
+      "options": {
+        "bedroom": "slaapkamer",
+        "bathroom": "Badkamer",
+        "livingroom": "woonkamer",
+        "kitchen": "keuken"
+      }
+    }
+  },
+  "comment3": "---------- vergelijking  ----------",
+
+  "Comparison": {
+    "items": {
+      "PropertyName": "waarde object",
+      "PropertyType": "woning type",
+      "ContYear": "bouwjaar",
+      "Area": "buurt",
+      "Sqft": "woonoppervlak",
+      "Address": "Adres",
+      "Location": "Locatie",
+      "FloorNumber": "verdieping",
+      "ReferenceObject": "Referentieobject",
+      "SellingPrice": "verkoopprijs",
+      "TypeOfProperty": "woning type",
+      "SellingDate": "verkoopdatum",
+      "AcquireMetersLivingArea": "woonoppervlak",
+      "PlotSize": "Plot Size",
+      "PropertyAddress": "object adres",
+      "Strengths": "sterktess",
+      "Weakness": "zwaktes"
+    }
+  },
+  "comment4": "---------- Comparison  Report ----------",
+  "reportTitle": "Comparison Report",
+  "websiteHeading": "PYTHAGORAS VASTGOED CALCULATOR",
+  "report": {
+    "items": {
+      "heading1": "gecorigeerde waarde.",
+      "heading2": "Overzicht uitkomst",
+      "values": "waarde",
+      "price": "Prijs",
+      "valObj": "waarde object",
+      "ref": "Referentie",
+      "des": "beschrijving",
+      "avg": "gemiddelde",
+      "highest": "hoogste",
+      "lowest": "laagstet",
+      "taxation": "taxatie waarde"
+    }
+  },
+  "comment5": "---------- ViewProfile  ----------",
+  "view": {
+    "owner": "eigenaar",
+    "email": "Email",
+    "password": "wachtwoord",
+    "phoneNo": "telefoonnummer",
+    "telePhoneNumber": "telefoonnummer",
+    "dateAgencyEstablish": "oprichtingsdatum van het bureau",
+    "address": "adres",
+    "zipcode": "postcode",
+    "city": "stad",
+    "about": "Over"
+  },
+  "comment6": "---------- Edit Profile  ----------",
+  "edit": {
+    "img": "Profielfoto ",
+    "heading1": "algemeen",
+    "heading2": "andere informatie",
+
+    "fname": {
+      "label": "Voornaam",
+      "placeholder": "John"
+    },
+    "lname": {
+      "label": "achternaam",
+      "placeholder": "Doe"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "john@gmail.com"
+    },
+    "phoneNo": {
+      "label": "telefoonnummer",
+      "placeholder": "+123456789"
+    },
+    "address": {
+      "label": "adres",
+      "placeholder": "123 Main St"
+    },
+    "zipCode": {
+      "label": "postcode",
+      "placeholder": "12345"
+    },
+    "city": {
+      "label": "stad",
+      "placeholder": "New York"
+    },
+    "about": {
+      "label": "Over jezelf",
+      "placeholder": "Vertel ons iets over jezelf."
+    }
+  },
+  "comment7": "---------- wachtwoord wijzigen ----------",
+  "change": {
+    "heading": "wachtwoord wijzigen",
+    "content": "Changing the login password frequently prevents unauthorized users from modifying configurations.",
+    "oldPassword": {
+      "label": "huidig wachtwoord"
+    },
+    "newPassword": {
+      "label": "Nieuw"
+    },
+    "confirmPassword": {
+      "label": "bevestig wschtwoord"
+    }
+  },
+
+  "comment8": "---------- Parameters ----------",
+  "parameters": {
+    "heading": "Standaard Parameters",
+    "subheading": "Parameters",
+    "livingArea": {
+      "label": "vierkante meter woonkamer",
+      "placeholder": "Selecteer een optie",
+      "Prijs": "0",
+      "options": {
+        "sqm": "Vierkante meter"
+      }
+    },
+    "terraced": {
+      "label": "Rijtjeshuis",
+      "placeholder": "selecteer een optie"
+    },
+    "endHouse": {
+      "label": "Eindwoning",
+      "placeholder": "selecteer een optie"
+    },
+    "semiDetached": {
+      "label": "Geschakeld huis",
+      "placeholder": "Selecteer een optie"
+    },
+    "corner": {
+      "label": "Hoek huis",
+      "placeholder": "Selecteer een optie"
+    },
+    "detached": {
+      "label": "vrijstaand huis",
+      "placeholder": "Selecteer een optie"
+    },
+    "area1": {
+      "label": "gebied 1",
+      "placeholder": "Selecteer een optie"
+    },
+    "area2": {
+      "label": "Gebied 2",
+      "placeholder": "slecteer een optie"
+    },
+    "area3": {
+      "label": "Gebied 3",
+      "placeholder": "selecteer een optie"
+    }
+  },
+  "comment9": "---------- SideBar ----------",
+  "sidebar": {
+    "comparison": "Vergelijking",
+    "parameters": "Standaard Parameters",
+    "subscription": "abbonement",
+    "account": "Accountinstellingen"
+  },
+
+  "comment10": "---------- Auth Pages ----------",
+  "authPage": {
+    "heading1": "PYTHAGORAS VASTGOED",
+    "heading2": "CALCULATOR",
+    "footer": "TAXATIE AUTOMASTISERING NEDERLAND",
+    "error": {
+      "verifyPhone": "Telefoonnummer is vereist",
+      "phone": "Phone number is required",
+      "password": "Wachtwoord is vereist",
+      "matchPassword": "Wachtwoorden komen niet overeen",
+      "wrongPassword": "Verkeerd wachtwoord",
+      "wrongFields": "Ongeldig telefoonnummer of wachtwoord"
+    },
+    "navigate": {
+      "signin": "Ik heb geen account? ",
+      "signup": "Ik heb al een account? ",
+      "otp": "Code niet ontvangen?"
+    },
+    "signin": {
+      "label": "Inloggen",
+      "success": "Aanmelding succesvol",
+      "message": " Registreer om Pythagoras te gaan gebruiken",
+      "phone": {
+        "label": "Voer uw telefoonnummer in",
+        "placeholder": "Voer uw telefoonnummer i"
+      },
+      "password": {
+        "label": "Enter",
+        "placeholder": "Voer wachtwoord in"
+      }
+    },
+    "signup": {
+      "label": "inloggen",
+      "message": "Registreer om Pythagoras te gaan gebruiken ",
+      "password": {
+        "label": "Voer uw wachtwoord in",
+        "placeholder": "Voer uw wachtwoord in"
+      },
+      "confirmPassword": {
+        "label": "Wachtwoord bevestigen",
+        "placeholder": "wachtwoord bevestigen"
+      },
+      "terms1": "Ik ga akkoord met uw",
+      "terms2": "Algemene voorwaarden"
+    },
+    "otp": {
+      "text1": "We hebben een OTP verzonden",
+      "text2": "naar je telefoonnummer",
+      "message": "Opnieuw verzenden"
+    }
+  }
+}

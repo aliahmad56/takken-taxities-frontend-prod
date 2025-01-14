@@ -1,0 +1,353 @@
+{
+  "comment1": "---------- PROPERTY VALUATION  ----------",
+
+  "valuationTitle": "Valuation Property",
+  "valuationSubTitle": "Property Valuation",
+  "address": {
+    "label": "Address",
+    "placeholder": "2841 Bougenville Lane"
+  },
+  "zipCode": {
+    "label": "Zipcode",
+    "placeholder": "12345"
+  },
+  "city": {
+    "label": "City",
+    "placeholder": "New York"
+  },
+  "sqmLivingArea": {
+    "label": "Square Meters Living Area",
+    "placeholder": "Select An Option"
+  },
+
+  "houseNumber": {
+    "label": "House Number",
+    "placeholder": "12345"
+  },
+  "plotSize": {
+    "label": "Plot Size",
+    "placeholder": "Select Plot Size"
+  },
+  "area": {
+    "label": "Area",
+    "placeholder": "Select An Area"
+  },
+  "constructionYear": {
+    "label": "Construction Year",
+    "placeholder": "2020"
+  },
+  "typeOfProperty": {
+    "label": "Type Of Property",
+    "placeholder": "Select Type Of Property",
+    "options": {
+      "house": "House",
+      "apartment": "Apartment",
+      "condo": "Condo",
+      "townhouse": "Townhouse",
+      "duplex": "Duplex"
+    }
+  },
+  "button": {
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "update": "Update",
+    "add": "Add More",
+    "draft": "Save In Draft",
+    "generate": "Generate Report",
+    "logout": "Logout",
+    "updateParameters": "Change Parameters",
+    "changeReference": "Change Reference Object",
+    "addReference": "Add New Reference Object",
+    "modify": "Modify Password",
+    "edit": "Edit",
+    "save": "Save",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "countinue": "Continue"
+  },
+  "message": {
+    "success": "Form submitted successfully",
+    "parametersUpdated": "Parameters Updated Successfully",
+    "updateImgLoading": "Uploading image. Please wait...",
+    "updateImg": "Image uploaded successfully",
+    "updateImgError": "Image upload failed",
+    "error": "Please fill all  fields",
+    "serverError": "Something went wrong",
+    "profileUpdated": "Profile updated successfully",
+    "modifyPassword": "Password updated successfully",
+    "modifyError": "New Password and Confirm Password do not match",
+    "logout": "Logout successfully",
+    "fault": "An error occurred",
+    "server": "Server Error",
+    "setParametersError": "Set Standard Parameters First"
+  },
+
+  "comment2": "---------- Reference Object  ----------",
+
+  "referenceTitle": "Reference Object",
+  "referenceSubTitle": "Select Number Of Reference Property To Compare",
+  "propertySubTitle": "Property Address",
+  "compareOptions": {
+    "3": "Compare 3 Properties",
+    "4": "Compare 4 Properties",
+    "5": "Compare 5 Properties",
+    "6": "Compare 6 Properties"
+  },
+  "header": "Comparison / Valuation property /",
+  "sellingPrice": {
+    "label": "Selling Price",
+    "placeholder": "$ 1,000,000"
+  },
+  "sellingDate": {
+    "label": "Selling Date"
+  },
+  "acqLivingArea": {
+    "label": "Acquire Meters Living Area",
+    "placeholder": "Select An Option"
+  },
+  "strenghts": {
+    "label": "Strenght",
+    "amount": "Amount",
+    "strenghts": "Strenghts",
+    "strghtPercentage": "Strenghts Percentage",
+    "room": {
+      "label": "Select A Room",
+      "options": {
+        "bedroom": "Bedroom",
+        "bathroom": "Bathroom",
+        "livingroom": "Living Room",
+        "kitchen": "Kitchen"
+      }
+    }
+  },
+  "weakness": {
+    "label": "Weakness",
+    "amount": "Amount",
+    "weaknesses": "Weaknesses",
+    "wknPercentage": "Weaknesses Percentage",
+    "room": {
+      "label": "Select A Room",
+      "options": {
+        "bedroom": "Bedroom",
+        "bathroom": "Bathroom",
+        "livingroom": "Livingroom",
+        "kitchen": "Kitchen"
+      }
+    }
+  },
+  "comment3": "---------- Comparison  ----------",
+
+  "Comparison": {
+    "items": {
+      "PropertyName": "Valuation Property",
+      "PropertyType": "Property Type",
+      "ContYear": "Construction Year",
+      "Area": "Area",
+      "Sqft": "Square Meters Living Area",
+      "Address": "Address",
+      "Location": "Location",
+      "FloorNumber": "Floor number",
+      "ReferenceObject": "Reference Object",
+      "SellingPrice": "Selling Price",
+      "TypeOfProperty": "Type of Property",
+      "SellingDate": "Selling Date",
+      "AcquireMetersLivingArea": "Acquire Meters Living Area",
+      "PlotSize": "Plot Size",
+      "PropertyAddress": "Property Address",
+      "Strengths": "Strengths",
+      "Weakness": "Weakness"
+    }
+  },
+  "comment4": "---------- Comparison  Report ----------",
+  "reportTitle": "Comparison Report",
+  "websiteHeading": "PYTHAGORAS VASTGOED CALCULATOR",
+  "report": {
+    "items": {
+      "heading1": "Calculated corrected values",
+      "heading2": "Overview outcome",
+      "values": "Values",
+      "price": "Price",
+      "valObj": "Valuation Object",
+      "ref": "Reference",
+      "des": "Description",
+      "avg": "Average",
+      "highest": "Highest",
+      "lowest": "Lowest",
+      "taxation": "Taxation Value"
+    }
+  },
+  "comment5": "---------- ViewProfile  ----------",
+  "view": {
+    "owner": "Owner",
+    "email": "Email",
+    "password": "Password",
+    "phoneNo": "Phone No",
+    "telePhoneNumber": "Tele Phone Number",
+    "dateAgencyEstablish": "Date Agency Establish",
+    "address": "Address",
+    "zipcode": "Zipcode",
+    "city": "City",
+    "about": "About"
+  },
+  "comment6": "---------- Edit Profile  ----------",
+  "edit": {
+    "img": "Profile Image ",
+    "heading1": "General",
+    "heading2": "Other Information",
+
+    "fname": {
+      "label": "First Name",
+      "placeholder": "John"
+    },
+    "lname": {
+      "label": "Last Name",
+      "placeholder": "Doe"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "john@gmail.com"
+    },
+    "phoneNo": {
+      "label": "Phone No",
+      "placeholder": "+123456789"
+    },
+    "address": {
+      "label": "Address",
+      "placeholder": "123 Main St"
+    },
+    "zipCode": {
+      "label": "Zip Code",
+      "placeholder": "12345"
+    },
+    "city": {
+      "label": "City",
+      "placeholder": "New York"
+    },
+    "about": {
+      "label": "About YourSelf",
+      "placeholder": "Tell us something about yourself..."
+    }
+  },
+  "comment7": "---------- Change Password ----------",
+  "change": {
+    "heading": "Modify password",
+    "content": "Changing the login password frequently prevents unauthorized users from modifying configurations.",
+    "oldPassword": {
+      "label": "Current Password"
+    },
+    "newPassword": {
+      "label": "New Password"
+    },
+    "confirmPassword": {
+      "label": "Confirm Password"
+    }
+  },
+
+  "comment8": "---------- Parameters ----------",
+  "parameters": {
+    "heading": "Standard Parameters",
+    "subheading": "Parameters",
+    "livingArea": {
+      "label": "Square Meters living Area",
+      "placeholder": "Select An Option",
+      "price": "0",
+      "options": {
+        "sqm": "Square Meters",
+        "sqft": "Square Feet",
+        "sqyd": "Square Yards",
+        "sqkm": "Square Kilometers"
+      }
+    },
+    "terraced": {
+      "label": "Terraced House",
+      "placeholder": "Select An Option"
+    },
+    "endHouse": {
+      "label": "End House",
+      "placeholder": "Select An Option"
+    },
+    "semiDetached": {
+      "label": "Semi Detached House",
+      "placeholder": "Select An Option"
+    },
+    "corner": {
+      "label": "Corner House",
+      "placeholder": "Select An Option"
+    },
+    "detached": {
+      "label": "Detached House",
+      "placeholder": "Select An Option"
+    },
+    "area1": {
+      "label": "Area 1",
+      "placeholder": "Select An Option"
+    },
+    "area2": {
+      "label": "Area 2",
+      "placeholder": "Select An Option"
+    },
+    "area3": {
+      "label": "Area 3",
+      "placeholder": "Select An Option"
+    }
+  },
+  "comment9": "---------- SideBar ----------",
+  "sidebar": {
+    "comparison": "Comparison",
+    "parameters": "Standard Parameters",
+    "subscription": "Subscription",
+    "account": "Account Setting"
+  },
+
+  "comment10": "---------- Auth Pages ----------",
+  "authPage": {
+    "heading1": "PYTHAGORAS VASTGOED",
+    "heading2": "CALCULATOR",
+    "footer": "TAXATIE AUTOMASTISERING NEDERLAND",
+    "error": {
+      "verifyPhone": "Phone number is required",
+      "phone": "Phone number is required",
+      "password": "Password is required",
+      "matchPassword": "Passwords do not match",
+      "wrongPassword": "Wrong password",
+      "wrongfeilds": "Invalid Phone Number or Password"
+    },
+    "navigate": {
+      "signin": "Don't have an account? ",
+      "signup": "Already have an account? ",
+      "otp": "Code Not Received?"
+    },
+    "signin": {
+      "label": "Sign In",
+      "success": "Sign In Successful",
+      "message": "Sign In to start using Pythagoras Vastgoed Calculator",
+      "phone": {
+        "label": "Enter Phone Number",
+        "placeholder": "Enter Phone Number"
+      },
+      "password": {
+        "label": "Enter Password",
+        "placeholder": "Enter Password"
+      }
+    },
+    "signup": {
+      "label": "Sign Up",
+      "message": "Sign Up to start using Pythagoras Vastgoed Calculator",
+      "password": {
+        "label": "Enter Password",
+        "placeholder": "Enter Password"
+      },
+      "confirmPassword": {
+        "label": "Confirm Password",
+        "placeholder": "Enter Confirm Password"
+      },
+      "terms1": "I agree with your",
+      "terms2": "Terms & Conditions"
+    },
+    "otp": {
+      "text1": "We Sent An OTP",
+      "text2": "to your number ",
+      "message": "Resend"
+    }
+  }
+}
